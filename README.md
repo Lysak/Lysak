@@ -4,7 +4,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/badges/micro/)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lysak&color=green)
 
-## Hi 👋,
+## Hi 👋
 I'm Dmytrii Lysak, I'm a Software developer 👨‍💻 which uses PHP and Javasript.
 
 - 🔭 I’m currently working on PHP and JavaScript apps/systems.
