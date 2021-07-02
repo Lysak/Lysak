@@ -15,20 +15,17 @@ I'm Dmytrii Lysak, I'm a Software developer 👨‍💻 which uses PHP and Javas
 "Do not expect from others what you expect of yourself."
 
 <p align="justify">
-  <a href="#">
-    <img
+  <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
-  </a>
-   <a href="#">
-    <img
+  <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysak&layout=compact&theme=radical" />
-  </a>
 </p>
 
 ### Technologies:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
