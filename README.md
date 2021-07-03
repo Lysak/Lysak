@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Lysak&color=green)
 
 ## Hi 👋
-I'm a Software developer 👨‍💻 which uses PHP and Javasript.
+I'm a Software Developer 👨‍💻 which uses PHP and Javasript.
 
 - 🔭 I’m currently working on PHP and JavaScript apps/systems.
 - 🌱 I’m currently learning NestJS.
