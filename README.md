@@ -12,7 +12,7 @@ I'm Dmytrii Lysak, I'm a Software developer 👨‍💻 which uses PHP and Javas
 - 💬 Ask me about: tech.
 - ⚡ Technologies: Yii2 & NestJS.
 
-"Do not expect from others what you expect of yourself."
+"A year from now you will regret that you not started today."
 
 <p align="justify">
   <img
