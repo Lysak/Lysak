@@ -1,8 +1,10 @@
 # Dmytrii Lysak
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytrii-lysak/)](https://www.linkedin.com/in/dmytrii-lysak/)
+[![Email Badge](https://img.shields.io/badge/Email-dlysak@live.com-brightgreen)](mailto:dlysak@live.com)
 [![Stack Overflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=flat-square&logo=Stackoverflow&logoColor=white&label=Stack%20Overflow)](https://stackoverflow.com/users/2406903/lysak/)
+[![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/badges/micro/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
+
 
 ## Hi 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
