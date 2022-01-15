@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytrii-lysak/)](https://www.linkedin.com/in/dmytrii-lysak/)
 [![Email Badge](https://img.shields.io/badge/Email-dlysak@live.com-brightgreen)](mailto:dlysak@live.com)
 [![Site Badge](https://img.shields.io/badge/Site-lysak.github.io-brightgreen)](https://lysak.github.io/)
-[![Stack Overflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=flat-square&logo=Stackoverflow&label=Stackoverflow)](https://stackoverflow.com/users/2406903/lysak/)
+[![Stack Overflow Badge](https://nextjs-telegram-bot-api.vercel.app/api/badge?type=stackoverflow)](https://stackoverflow.com/users/2406903/lysak/)
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
 
