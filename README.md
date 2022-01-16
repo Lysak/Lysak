@@ -14,7 +14,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 - 💬 Ask me about: tech.
 - ⚡ Technologies: Yii2 & NestJS.
 
-"A year from now you will regret that you not started today."
+"A year from now you will regret that you didn't start today."
 
 <p align="justify">
   <img
