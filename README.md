@@ -4,7 +4,9 @@
 [![Site Badge](https://img.shields.io/badge/Site-lysak.github.io-brightgreen)](https://lysak.github.io/)
 [![Stack Overflow Badge](https://nextjs-telegram-bot-api.vercel.app/api/badge?type=stackoverflow)](https://stackoverflow.com/users/2406903)
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/)
-[![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
+[![Profile Badge](https://nextjs-telegram-bot-api.vercel.app/api/badge?type=profileViews)](https://github.com/lysak/)
+
+${{ secrets.API_SECRET_KEY }}
 
 ## Hi 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
