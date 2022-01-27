@@ -12,7 +12,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 - 🔭 I’m currently working on PHP and JavaScript apps/systems.
 - 🌱 I’m currently learning NestJS.
 - 💬 Ask me about: tech.
-- ⚡ Technologies: Yii2 & NestJS.
+- ⚡ Technologies: Laravel & NestJS.
 
 "A year from now you will regret that you didn't start today."
 
