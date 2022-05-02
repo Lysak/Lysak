@@ -5,7 +5,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
 
-[![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png)](https://stackoverflow.com/users/2406903)
+[![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
 
 
 ## Hi 👋
