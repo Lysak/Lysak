@@ -1,7 +1,5 @@
 # Dmytrii Lysak
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytrii-lysak/)](https://www.linkedin.com/in/dmytrii-lysak/)
-[![Email Badge](https://img.shields.io/badge/Email-dlysak@live.com-brightgreen)](mailto:dlysak@live.com)
-[![Site Badge](https://img.shields.io/badge/Site-lysak.github.io-brightgreen)](https://lysak.github.io/)
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
 
