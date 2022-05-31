@@ -1,6 +1,7 @@
 # Dmytrii Lysak
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmytrii-lysak/)](https://www.linkedin.com/in/dmytrii-lysak/)
 [![Codewars Badge](https://www.codewars.com/users/Lysak/badges/micro/)](https://www.codewars.com/users/Lysak/)
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://www.linkedin.com/in/dmytrii-lysak/](https://www.kaggle.com/dlysak))
 [![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
 
 [![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
@@ -18,6 +19,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 
 Pet project:
 [@CustomsCalcBot](https://t.me/CustomsCalcBot)
+
 [@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot)
 
 <p align="justify">
