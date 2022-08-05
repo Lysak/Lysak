@@ -21,9 +21,11 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 
 "A year from now you will regret that you didn't start today."
 
+[@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot)
+
 [@CustomsCalcBot](https://t.me/CustomsCalcBot)
 
-[@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot)
+[@SalaryCalcBot](https://t.me/SalaryCalcBot)
 
 <p align="justify">
   <img
