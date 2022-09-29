@@ -11,21 +11,28 @@
 
 [![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
 
-## Hi 👋
+## 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 
 - 🔭 I’m currently working on PHP and JavaScript apps/systems.
 - 🌱 I’m currently learning NestJS.
 - 💬 Ask me about: tech.
-- ⚡ Technologies: Laravel & NestJS.
+- ⚡ Technologies: Laravel, NestJS.
 
 "A year from now you will regret that you didn't start today."
 
-[@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot)
+## My pet projects:
 
-[@CustomsCalcBot](https://t.me/CustomsCalcBot)
+* [motivation](https://github.com/Lysak/motivation) \
+Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome exstension (its fork with new design)
 
-[@SalaryCalcBot](https://t.me/SalaryCalcBot)
+> Telegram bots
+* [@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot) \
+Referral program for monobank
+* [@CustomsCalcBot](https://t.me/CustomsCalcBot) \
+Calculate customs taxes
+* [@SalaryCalcBot](https://t.me/SalaryCalcBot) \
+Calculate salary taxes (PE of the third group with 5%)
 
 <p align="justify">
   <img
