@@ -24,7 +24,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 ## My pet projects:
 
 * [motivation](https://github.com/Lysak/motivation) \
-Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome exstension (its fork with new design)
+Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome exstension (it's fork with new design)
 
 > Telegram bots
 * [@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot) \
