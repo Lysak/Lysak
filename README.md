@@ -21,7 +21,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 
 "A year from now you will regret that you didn't start today."
 
-## My pet projects:
+## My Pet Projects:
 
 * [motivation](https://github.com/Lysak/motivation) \
 Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome exstension (it's fork with new design)
