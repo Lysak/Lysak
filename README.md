@@ -32,7 +32,7 @@ Referral program for monobank
 * [@CustomsCalcBot](https://t.me/CustomsCalcBot) \
 Calculate customs taxes
 * [@SalaryCalcBot](https://t.me/SalaryCalcBot) \
-Calculate salary taxes (PE of the third group with 5%)
+Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 
 <p align="justify">
   <img
