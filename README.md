@@ -11,6 +11,9 @@
 
 [![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
 
+[![WakaTime Badge]([https://stackoverflow.com/users/flair/2406903.png?theme=dark](https://wakatime.com/badge/user/e792cd22-946b-4732-8807-9e19686083b5.svg))](https://wakatime.com/@Lysak)
+
+
 ## 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 
