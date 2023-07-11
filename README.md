@@ -7,7 +7,7 @@
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/lysak/)
 
-[![Profile Badge](https://komarev.com/ghpvc/?username=Lysak&color=green&logo=github)](https://github.com/lysak/)
+[![Profile views](https://u8views.com/api/v1/github/profiles/4108154/views/day-week-month-total-count.svg)](https://u8views.com/github/Lysak)
 
 [![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
 
