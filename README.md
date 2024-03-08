@@ -3,7 +3,8 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://lysak.t.me/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dlysak)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Lysak/)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/2406903/lysak)
+![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stackoverflow&labelColor=%23fe7a16&color=%23fe7a16&cacheSeconds=3600&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F2406903%2Flysak)
+
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/lysak/)
 
