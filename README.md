@@ -3,14 +3,12 @@
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://lysak.t.me/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dlysak)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Lysak/)
-![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stackoverflow&labelColor=%23fe7a16&color=%23fe7a16&cacheSeconds=3600&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F2406903%2Flysak)
+[![Stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stackoverflow&labelColor=%23fe7a16&color=%23fe7a16&cacheSeconds=3600&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F2406903%2Flysak)](https://stackoverflow.com/users/2406903/lysak)
 
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/lysak/)
 
 [![Profile views](https://u8views.com/api/v1/github/profiles/4108154/views/day-week-month-total-count.svg)](https://u8views.com/github/Lysak)
-
-[![Stack Overflow Badge](https://stackoverflow.com/users/flair/2406903.png?theme=dark)](https://stackoverflow.com/users/2406903)
 
 [![WakaTime Badge](https://wakatime.com/badge/user/e792cd22-946b-4732-8807-9e19686083b5.svg)](https://wakatime.com/@Lysak)
 
