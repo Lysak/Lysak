@@ -8,11 +8,9 @@
 [![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Lysak/)
 [![Profile Badge](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)](https://github.com/lysak/)
 
-[![Profile views](https://u8views.com/api/v1/github/profiles/4108154/views/day-week-month-total-count.svg)](https://u8views.com/github/Lysak)
-
-![Profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fnextjs-telegram-bot-api.vercel.app%2Fapi%2Fwebhook&query=count&style=for-the-badge&logo=bitcoin&label=Profile%20views)
-
 [![WakaTime Badge](https://wakatime.com/badge/user/e792cd22-946b-4732-8807-9e19686083b5.svg)](https://wakatime.com/@Lysak)
+
+[![Profile views](https://u8views.com/api/v1/github/profiles/4108154/views/day-week-month-total-count.svg)](https://u8views.com/github/Lysak)
 
 ## 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
