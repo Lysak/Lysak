@@ -35,6 +35,11 @@ Calculate customs taxes
 * [@SalaryCalcBot](https://t.me/SalaryCalcBot) \
 Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 
+> Telegram channels
+* [@iceraven_browser](https://t.me/iceraven_browser) \
+The Feed of GitHub releases for the Iceraven Browser.
+
+
 <p align="justify">
   <img
       height="150"
