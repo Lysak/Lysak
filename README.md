@@ -37,8 +37,11 @@ Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 
 > Telegram channels
 * [@iceraven_browser](https://t.me/iceraven_browser) \
-The Feed of GitHub releases for the Iceraven Browser.
-
+The Feed of GitHub releases for the Iceraven Browser
+* [@ios_latest](https://t.me/ios_latest) \
+iOS latest software updates
+* [@macos_latest](https://t.me/macos_latest) \
+macOS latest software updates
 
 <p align="justify">
   <img
