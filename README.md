@@ -39,9 +39,7 @@ Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 * [Iceraven Browser](https://t.me/iceraven_browser) \
 The Feed of GitHub releases for the Iceraven Browser
 * [iOS latest software updates](https://t.me/ios_latest) \
-iOS latest software updates
 * [macOS latest software updates](https://t.me/macos_latest) \
-macOS latest software updates
 * [Crypto Launchpool Radar](https://t.me/launchpool_radar) \
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
 
