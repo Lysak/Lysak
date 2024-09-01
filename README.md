@@ -42,6 +42,8 @@ The Feed of GitHub releases for the Iceraven Browser
 iOS latest software updates
 * [@macos_latest](https://t.me/macos_latest) \
 macOS latest software updates
+* [@launchpool_radar](https://t.me/launchpool_radar) \
+Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
 
 <p align="justify">
   <img
