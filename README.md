@@ -34,6 +34,11 @@ Referral program for monobank
 Calculate customs taxes
 * [@SalaryCalcBot](https://t.me/SalaryCalcBot) \
 Calculate salary taxes (Private Entrepreneur of the third group with 5%)
+* [@AliExpressCoinDiscountsBot](https://t.me/AliExpressCoinDiscountsBot) [Ukrainian]
+* [@AliExpressCoinDealsBot](https://t.me/AliExpressCoinDealsBot) [English] \
+AliExpress - Coin Discounts and Great Deals \
+A bot that helps you get the maximum discount using coins. \
+Send a product link and receive a discounted link 💰🤑🧨🎁✨
 
 > Telegram channels
 * [Iceraven Browser](https://t.me/iceraven_browser) \
