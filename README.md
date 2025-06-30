@@ -47,6 +47,11 @@ The Feed of GitHub releases for the Iceraven Browser
 * [macOS latest software updates](https://t.me/macos_latest)
 * [Crypto Launchpool Radar](https://t.me/launchpool_radar) \
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
+* [Дональд Трамп 🇺🇸🗽⚡️🇺🇦 українською](https://t.me/realDonaldTrumpInUkrainian) \
+A feed of Donald J. Trump's posts, translated into Ukrainian. \
+Дональд Трамп 🇺🇸🗽⚡️🇺🇦 українською | Donald J. Trump 🇺🇸🗽⚡️🇺🇦 in Ukrainian
+
+
 
 <p align="justify">
   <img
