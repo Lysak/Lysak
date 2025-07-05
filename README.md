@@ -20,7 +20,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 - 💬 Ask me about: tech.
 - ⚡ Technologies: Laravel, NestJS.
 
-"A year from now you will regret that you didn't start today."
+> "A year from now, you will regret that you didn't start today."
 
 ## My Pet Projects:
 
@@ -66,7 +66,7 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 ### Technologies:
 
 <p>
-  <img style="height: 5rem;" alt="php" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img style="height: 5rem;" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img style="height: 5rem;" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img style="height: 3rem;" alt="php" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img style="height: 3rem;" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img style="height: 3rem;" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 </p>
