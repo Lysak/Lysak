@@ -47,25 +47,26 @@ The Feed of GitHub releases for the Iceraven Browser
 * [macOS latest software updates](https://t.me/macos_latest)
 * [Crypto Launchpool Radar](https://t.me/launchpool_radar) \
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
-* [Дональд Трамп українською 🇺🇸🇺🇦](https://t.me/realDonaldTrumpInUkrainian) \
-A feed of Donald J. Trump's posts, translated into Ukrainian. \
-Donald J. Trump in Ukrainian 🇺🇸🇺🇦
+* [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://t.me/realDonaldTrumpInUkrainian) \
+A feed of Donald J. Trump's posts, translated into Ukrainian.
 
+### Stats:
 
-
-<p align="justify">
-  <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula"
-    />
-  <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysak&layout=compact&theme=dracula" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula" 
+    style="height: 12rem;" alt="Github status" title="Github status"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysak&layout=compact&theme=dracula" 
+    style="height: 12rem;" alt="Most Used Languages" title="Most Used Languages"
+  />
 </p>
 
 ### Technologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![](https://hit.yhype.me/github/profile?user_id=4108154)
+<p>
+  <img style="height: 5rem;" alt="php" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img style="height: 5rem;" alt="typescript" title="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img style="height: 5rem;" alt="nodejs" title="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+</p>
