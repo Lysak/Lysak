@@ -50,6 +50,10 @@ Get the latest updates on new crypto launchpools and investment opportunities. S
 * [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://t.me/realDonaldTrumpInUkrainian) \
 A feed of Donald J. Trump's posts, translated into Ukrainian.
 
+> Useful Utilities
+* [Batch Placeholder Generator](https://lysak.github.io/placeholder-image-generator/)
+* [Log Analyzer](https://lysak.github.io/log-analyzer/)
+
 ### Stats:
 
 <p align="center">
