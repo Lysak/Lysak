@@ -59,11 +59,11 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula" 
-    style="height: 12rem;" alt="Github status" title="Github status"
+    style="height: 11rem;" alt="Github status" title="Github status"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysak&layout=compact&theme=dracula" 
-    style="height: 12rem;" alt="Most Used Languages" title="Most Used Languages"
+    style="height: 11rem;" alt="Most Used Languages" title="Most Used Languages"
   />
 </p>
 
