@@ -1,0 +1,58 @@
+name: Update all badges
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at 00:00 UTC
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-badges:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Setup Node.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      # Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Run Codewars badge script
+      - name: Run Codewars badge script
+        run: node scripts/codewars.js
+        env:
+          CODEWARS_USER: Lysak
+
+      # Run other badge scripts (LeetCode, etc.)
+      - name: Run other badge scripts
+        run: |
+          # node scripts/leetcode.js
+          # Add more badge scripts here in the future
+
+      # Push updated badge JSON files to the 'badges' branch
+      - name: Push badges branch
+        run: |
+          # Configure git user
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          # Checkout (or create) the 'badges' branch
+          git checkout -B badges
+
+          # Add all JSON files in the badges folder
+          git add badges/*.json
+
+          # Commit only if there are changes
+          git diff --cached --quiet || git commit -m "Update badges"
+
+          # Push changes to the 'badges' branch
+          git push -u origin badges --force
