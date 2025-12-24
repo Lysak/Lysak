@@ -6,8 +6,9 @@
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stackoverflow&labelColor=%23fe7a16&color=%23fe7a16&cacheSeconds=3600&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F2406903%2Flysak)](https://stackoverflow.com/users/2406903/lysak)
 [![Codewars Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lysak/Lysak/badges/badges/codewars.json)](https://www.codewars.com/users/Lysak/)
 
+[![Dmytrii profile views](https://u8views.com/api/v1/github/profiles/4108154/views/day-week-month-total-count.svg)](https://u8views.com/github/Lysak)
+
 [![WakaTime Badge](https://wakatime.com/badge/user/e792cd22-946b-4732-8807-9e19686083b5.svg)](https://wakatime.com/@Lysak)
-[![Profile Views Badge](https://u8views.com/api/v1/github/profiles/4108154/views/total-count.svg)](https://u8views.com/github/Lysak)
 
 ## 👋
 I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
