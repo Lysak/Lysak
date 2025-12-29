@@ -52,8 +52,8 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 * [Batch Placeholder Generator](https://lysak.github.io/placeholder-image-generator/)
 * [Log Analyzer](https://lysak.github.io/log-analyzer/)
 
+<!---
 ### Stats:
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula" 
@@ -64,6 +64,7 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
     style="height: 11rem;" alt="Most Used Languages" title="Most Used Languages"
   />
 </p>
+-->
 
 ### Technologies:
 
