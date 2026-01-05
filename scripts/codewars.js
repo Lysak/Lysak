@@ -23,7 +23,7 @@ const rank = stat.first().text().trim().replace("Rank:", "").trim();
 
 const honor = stat.eq(1).text().trim().replace("Honor:", "").trim();
 
-const totalCompletedKata = stat.eq(2).text().trim().replace("Total Completed Kata:", "").trim();
+const totalCompletedKata = stat.eq(4).text().trim().replace("Total Completed Kata:", "").trim();
 
 // Create JSON for Shields.io
 const badge = {
