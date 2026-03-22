@@ -53,6 +53,8 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 * [Log Analyzer](https://lysak.github.io/log-analyzer/)
 * [Pasteboard](https://lysak.github.io/pasteboard/) \
 Paste images from your clipboard and preview them locally. No uploads, no tracking—everything stays in your browser tab. Right-click the image in Chrome to search with Google Lens, or download it.
+* [HTML Text Extractor](https://github.com/Lysak/html-text-extractor/) \
+Extract readable text from HTML files directly in the browser.
 
 <!---
 ### Stats:
