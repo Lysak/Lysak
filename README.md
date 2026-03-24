@@ -37,6 +37,9 @@ Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 AliExpress - Coin Discounts and Great Deals \
 A bot that helps you get the maximum discount using coins. \
 Send a product link and receive a discounted link 💰🤑🧨🎁✨
+* [@getContactByPhoneNumberBot](https://t.me/getContactByPhoneNumberBot) \
+Приймає номер телефону в різних форматах і перетворює його у Telegram-посилання.
+
 
 > Telegram channels
 * [Iceraven Browser](https://t.me/iceraven_browser) \
