@@ -38,6 +38,7 @@ AliExpress - Coin Discounts and Great Deals \
 A bot that helps you get the maximum discount using coins. \
 Send a product link and receive a discounted link 💰🤑🧨🎁✨
 * [@getContactByPhoneNumberBot](https://t.me/getContactByPhoneNumberBot) \
+Accepts a phone number in different formats and converts it into a Telegram link. \
 Приймає номер телефону в різних форматах і перетворює його у Telegram-посилання.
 
 
