@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *" # Run daily at 00:00 UTC
   workflow_dispatch: # Allow manual trigger
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-badges:
     runs-on: ubuntu-latest
@@ -32,11 +35,11 @@ jobs:
         env:
           CODEWARS_USER: Lysak
 
-      # Run other badge scripts (LeetCode, etc.)
-      - name: Run other badge scripts
-        run: |
-          # node scripts/leetcode.js
-          # Add more badge scripts here in the future
+      # Run LeetCode badge script
+      - name: Run LeetCode badge script
+        run: node scripts/leetcode.js
+        env:
+          LEETCODE_USER: Lysak
 
       # Push updated badge JSON files to the 'badges' branch
       - name: Push badges branch

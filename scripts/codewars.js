@@ -19,11 +19,13 @@ const $ = load(html);
 
 const stat = $(".stat-category .stat");
 
-const rank = stat.first().text().trim().replace("Rank:", "").trim();
+const statTexts = stat.toArray().map(el => $(el).text().trim());
 
-const honor = stat.eq(1).text().trim().replace("Honor:", "").trim();
+const rank = statTexts.find(text => text.startsWith("Rank:"))?.replace("Rank:", "").trim();
 
-const totalCompletedKata = stat.eq(2).text().trim().replace("Total Completed Kata:", "").trim();
+const honor = statTexts.find(text => text.startsWith("Honor:"))?.replace("Honor:", "").trim();
+
+const totalCompletedKata = statTexts.find(text => text.startsWith("Total Completed Kata:"))?.replace("Total Completed Kata:", "").trim();
 
 // Create JSON for Shields.io
 const badge = {
