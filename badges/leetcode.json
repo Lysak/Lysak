@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "LeetCode",
+  "labelColor": "#FFA116",
+  "message": "#3613481 | 25 solved",
+  "color": "FFA116",
+  "namedLogo": "leetcode",
+  "logoColor": "black",
+  "style": "for-the-badge"
+}
