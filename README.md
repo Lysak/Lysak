@@ -36,6 +36,10 @@ Calculate salary taxes (Private Entrepreneur of the third group with 5%)
 AliExpress - Coin Discounts and Great Deals \
 A bot that helps you get the maximum discount using coins. \
 Send a product link and receive a discounted link 💰🤑🧨🎁✨
+* [@getContactByPhoneNumberBot](https://t.me/getContactByPhoneNumberBot) \
+Accepts a phone number in various formats and converts it into a Telegram link. \
+Приймає номер телефону в різних форматах і перетворює його у Telegram-посилання.
+
 
 > Telegram channels
 * [Iceraven Browser](https://t.me/iceraven_browser) \
@@ -46,6 +50,12 @@ The Feed of GitHub releases for the Iceraven Browser
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
 * [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://t.me/realDonaldTrumpInUkrainian) \
 A feed of Donald J. Trump's posts, translated into Ukrainian.
+* [Неробочі дні в Україні](https://t.me/ukraine_holidays) \
+🇺🇦 Reminders about Ukrainian public holidays \
+📅 Official non-working holidays in Ukraine — reminders on the day before and on the day of the holiday. \
+🇺🇦 Нагадування про українські неробочі (святкові) дні \
+📅 Офіційні неробочі дні України — нагадування напередодні та в день свята.
+
 
 > Useful Utilities
 * [Batch Placeholder Generator](https://lysak.github.io/placeholder-image-generator/)
@@ -53,7 +63,7 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 
 ### Stats:
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Lysak&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=dracula" 
     style="height: 11rem;" alt="Github status" title="Github status"
@@ -62,7 +72,7 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lysak&layout=compact&theme=dracula" 
     style="height: 11rem;" alt="Most Used Languages" title="Most Used Languages"
   />
-</p>
+</p> -->
 
 ### Technologies:
 
