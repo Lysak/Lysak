@@ -10,7 +10,7 @@
 [![Profile Views Badge](https://u8views.com/api/v1/github/profiles/4108154/views/total-count.svg)](https://u8views.com/github/Lysak)
 
 ## 👋
-I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
+I'm a Software Developer 👨‍💻 who uses PHP and JavaScript.
 
 - 🔭 I’m currently working on PHP and JavaScript apps/systems.
 - 🌱 I’m currently learning NestJS.
@@ -22,7 +22,7 @@ I'm a Software Developer 👨‍💻 which uses PHP and JavaScript.
 ## My Pet Projects:
 
 * [motivation](https://github.com/Lysak/motivation) \
-Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome exstension (it's fork with new design)
+Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome extension (it's a fork with new design)
 
 > Telegram bots
 * [@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot) \
@@ -60,6 +60,8 @@ A feed of Donald J. Trump's posts, translated into Ukrainian.
 > Useful Utilities
 * [Batch Placeholder Generator](https://lysak.github.io/placeholder-image-generator/)
 * [Log Analyzer](https://lysak.github.io/log-analyzer/)
+* [Pasteboard – Drop any screenshot, extract its text via Google Lens. No installs, no friction](https://lysak.github.io/pasteboard/)
+* [Extract readable text from HTML files directly in the browser.](https://lysak.github.io/html-text-extractor/)
 
 ### Stats:
 

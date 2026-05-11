@@ -19,15 +19,20 @@ jobs:
         with:
           fetch-depth: 0
 
+      # Setup pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+
       # Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 24
+          cache: pnpm
 
       # Install dependencies
       - name: Install dependencies
-        run: npm install
+        run: pnpm install
 
       # Run Codewars badge script
       - name: Run Codewars badge script
