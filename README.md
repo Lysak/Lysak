@@ -1,6 +1,6 @@
 # Dmytrii Lysak
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ua.linkedin.com/in/dmytrii-lysak/en)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://lysak.t.me/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/lysak/)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/dlysak)
 [![LeetCode Badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lysak/Lysak/badges/badges/leetcode.json)](https://leetcode.com/u/Lysak/)
 [![Stackoverflow Badge](https://img.shields.io/stackexchange/stackoverflow/r/2406903?style=for-the-badge&logo=stackoverflow&logoColor=white&label=Stackoverflow&labelColor=%23fe7a16&color=%23fe7a16&cacheSeconds=3600&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F2406903%2Flysak)](https://stackoverflow.com/users/2406903/lysak)
@@ -25,32 +25,32 @@ I'm a Software Developer 👨‍💻 who uses PHP and JavaScript.
 Replace new tab page with Motivation. Once installed, enter your date of birth and then, every time you open a new tab, a live calculation of your age will appear. Firefox and Chrome extension (it's a fork with new design)
 
 > Telegram bots
-* [@monobankReferralProgramBot](https://t.me/monobankReferralProgramBot) \
+* [@monobankReferralProgramBot](https://telegram.me/monobankReferralProgramBot) \
 Referral program for monobank
-* [@CustomsCalcBot](https://t.me/CustomsCalcBot) \
+* [@CustomsCalcBot](https://telegram.me/CustomsCalcBot) \
 Calculate customs taxes
-* [@SalaryCalcBot](https://t.me/SalaryCalcBot) \
+* [@SalaryCalcBot](https://telegram.me/SalaryCalcBot) \
 Calculate salary taxes (Private Entrepreneur of the third group with 5%)
-* [@AliExpressCoinDiscountsBot](https://t.me/AliExpressCoinDiscountsBot) [Ukrainian]
-* [@AliExpressCoinDealsBot](https://t.me/AliExpressCoinDealsBot) [English] \
+* [@AliExpressCoinDiscountsBot](https://telegram.me/AliExpressCoinDiscountsBot) [Ukrainian]
+* [@AliExpressCoinDealsBot](https://telegram.me/AliExpressCoinDealsBot) [English] \
 AliExpress - Coin Discounts and Great Deals \
 A bot that helps you get the maximum discount using coins. \
 Send a product link and receive a discounted link 💰🤑🧨🎁✨
-* [@getContactByPhoneNumberBot](https://t.me/getContactByPhoneNumberBot) \
+* [@getContactByPhoneNumberBot](https://telegram.me/getContactByPhoneNumberBot) \
 Accepts a phone number in various formats and converts it into a Telegram link. \
 Приймає номер телефону в різних форматах і перетворює його у Telegram-посилання.
 
 
 > Telegram channels
-* [Iceraven Browser](https://t.me/iceraven_browser) \
+* [Iceraven Browser](https://telegram.me/iceraven_browser) \
 The Feed of GitHub releases for the Iceraven Browser
-* [iOS latest software updates](https://t.me/ios_latest)
-* [macOS latest software updates](https://t.me/macos_latest)
-* [Crypto Launchpool Radar](https://t.me/launchpool_radar) \
+* [iOS latest software updates](https://telegram.me/ios_latest)
+* [macOS latest software updates](https://telegram.me/macos_latest)
+* [Crypto Launchpool Radar](https://telegram.me/launchpool_radar) \
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
-* [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://t.me/realDonaldTrumpInUkrainian) \
+* [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://telegram.me/realDonaldTrumpInUkrainian) \
 A feed of Donald J. Trump's posts, translated into Ukrainian.
-* [Неробочі дні в Україні](https://t.me/ukraine_holidays) \
+* [Неробочі дні в Україні](https://telegram.me/ukraine_holidays) \
 🇺🇦 Reminders about Ukrainian public holidays \
 📅 Official non-working holidays in Ukraine — reminders on the day before and on the day of the holiday. \
 🇺🇦 Нагадування про українські неробочі (святкові) дні \
