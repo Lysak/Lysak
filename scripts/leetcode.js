@@ -46,7 +46,7 @@ const badge = {
     color: "FFA116",
     namedLogo: "leetcode",
     logoColor: "black",
-    style: "flat",
+    style: "for-the-badge",
 };
 
 fs.writeFileSync(path.join(badgesDir, "leetcode.json"), JSON.stringify(badge, null, 2));
