@@ -36,7 +36,7 @@ const badge = {
     color: "B1361E",
     namedLogo: "codewars",
     logoColor: "white",
-    style: "for-the-badge"
+    style: "flat"
 };
 
 // Save JSON to file
