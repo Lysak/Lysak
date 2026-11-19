@@ -47,8 +47,6 @@ The Feed of GitHub releases for the Iceraven Browser
 * [macOS latest software updates](https://telegram.me/macos_latest)
 * [Crypto Launchpool Radar](https://telegram.me/launchpool_radar) \
 Get the latest updates on new crypto launchpools and investment opportunities. Stay informed with real-time alerts and insights to help you make the best decisions in the crypto space.
-* [Donald J. Trump in Ukrainian 🇺🇸🇺🇦](https://telegram.me/realDonaldTrumpInUkrainian) \
-A feed of Donald J. Trump's posts, translated into Ukrainian.
 * [Неробочі дні в Україні](https://telegram.me/ukraine_holidays) \
 🇺🇦 Reminders about Ukrainian public holidays \
 📅 Official non-working holidays in Ukraine — reminders on the day before and on the day of the holiday. \
